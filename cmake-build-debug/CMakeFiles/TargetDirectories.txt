@@ -1,0 +1,3 @@
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/cmake-build-debug/CMakeFiles/minicalc.dir

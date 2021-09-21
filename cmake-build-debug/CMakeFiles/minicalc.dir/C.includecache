@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/arq.h
+
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/lexer.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+ctype.h
+-
+string.h
+-
+arq.h
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/arq.h
+lexer.h
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/lexer.h
+
+/home/joao/Documentos/UFPB/Construção de Compiladores I/minicalc-estagio1-lex/lexer.h
+
